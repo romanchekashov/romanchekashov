@@ -1,8 +1,9 @@
 ### Hi there 👋
 A senior software engineer with 8 years of extensive experience in Web Software Development. Having a strong communication and technical background. I am driven by roles that will leverage my strengths in Frontend.
 
-⚡ https://www.linkedin.com/in/romanchekashov/ ⚡
+✨ https://www.linkedin.com/in/romanchekashov/ ✨
 
+⚡ Solid skills in Java and Javascript.
 <!--
 **romanchekashov/romanchekashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
