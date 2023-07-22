@@ -1,9 +1,12 @@
 ### Hi there 👋
-A senior software engineer with 9 years of extensive experience in Web Software Development. Having a strong communication and technical background. I am driven by roles that will leverage my strengths in Frontend.
+Software Engineer with over 9+ years of experience in developing microservices, APIs, and web applications.
+
+
+⚡ Solid skills in Java / Javascript / Go.
++ Master degree in CS
++ Full-stack end-to-end development experience
 
 ✨ https://www.linkedin.com/in/romanchekashov/ ✨
-
-⚡ Solid skills in Java and Javascript.
 
 ### :fire: My Stats :
 [![Badge](http://194.195.87.104:3020/codeforces/romanrich89)](https://codeforces.com/profile/romanrich89)
