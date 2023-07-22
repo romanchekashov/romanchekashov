@@ -1,9 +1,9 @@
 ### Hi there 👋
-Software Engineer with over 9+ years of experience in developing microservices, APIs, and web applications.
+Senior Java Software Engineer with over 9+ years of experience in developing microservices, APIs, and web applications.
 
 
-⚡ Solid skills in Java / Javascript / Go.
-+ Master degree in CS
+⚡ Solid skills in Java / Javascript. Interested in Backend development.
++ Master degree in Computer Science
 + Full-stack end-to-end development experience
 
 ✨ https://www.linkedin.com/in/romanchekashov/ ✨
