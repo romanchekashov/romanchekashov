@@ -1,10 +1,10 @@
 ### Hi there 👋
-Senior Software Engineer (Java / Spring / JavaScript / React) with over 9+ years of experience in developing microservices, APIs, complex UI components, advanced in a full-cycle development of web applications from scratch.
-
+Senior Java Software Engineer with over 9 years of experience in microservices, APIs, and web applications development.
+Solid skills in Java / JavaScript. Interested in Backend development.
 + Master degree in Computer Science.
 + Full-stack end-to-end development experience.
 
-If you use Java / Kotlin / Go / TypeScript / Python on your backend side then don't hesitate to reach me!
+Ready to relocate (Visa Sponsorship Required).
 
 ✨ https://www.linkedin.com/in/romanchekashov/ ✨
 
